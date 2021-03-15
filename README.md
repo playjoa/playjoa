@@ -17,14 +17,14 @@ I would say these are my top 3 favorite games I made!
 
 <strong> Motor Mayhem - Vehicle Warfare </strong>
 <br>
-<strong> <a href='https://play.google.com/store/apps/details?id=com.CrossBlack.Virus'> - Android Link!</a> </strong> <br>
+<strong> <a href='https://play.google.com/store/apps/details?id=com.CrossBlack.MotorMayhem'> - Android Link!</a> </strong> <br>
 <strong> <a href='https://apps.apple.com/br/app/motor-mayhem-vehicle-warfare/id1538345518'> - iOS Link!</a> </strong> <br>
 ![MotorMayhem](https://play-lh.googleusercontent.com/v-z3pyS-eaaZgNtSdZlri0iIosQoJ1N_u2V69lRJFvGH8XKubE3yUsyag4SzYs4YJxI=w2560-h1297-rw)
 <br>
 
 <strong> Tornado.io 2! </strong>
 <br>
-<strong> <a href='https://play.google.com/store/apps/details?id=com.CrossBlack.Virus'> - Android Link!</a> </strong> <br>
+<strong> <a href='https://play.google.com/store/apps/details?id=com.CrossBlack.Tornadoio2'> - Android Link!</a> </strong> <br>
 <strong> <a href='https://apps.apple.com/br/app/tornado-io-2-the-game-3d/id1497471104'> - iOS Link!</a> </strong> <br>
 ![Tornado](https://play-lh.googleusercontent.com/jhfRhK_JL_ogaEgPBAJ3NZlJxpbcPcOAXhUYE7hiiF9541cFFSSIilDXVukuucLs1T0=w2560-h1297-rw)
 <br>
