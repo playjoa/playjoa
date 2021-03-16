@@ -29,7 +29,11 @@
 <img align="left" alt="AdMob" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleadsense.svg"/>
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"/>
 <img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>
-
+<br>
+<br>
+<br>
+<strong> <a href='https://playjoa.github.io/'> - Portfolio</a> </strong> 
+<br>
 
 [linkedin]: https://www.linkedin.com/in/joao-milone/
 [assetstore]: https://assetstore.unity.com/publishers/52979
