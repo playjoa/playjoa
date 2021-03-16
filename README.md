@@ -6,16 +6,16 @@
 
 ### You can find me here
 
-[<img align="left" alt="playjoa | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="playjoa | YouTube" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" target="_blank" alt="playjoa | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" target="_blank" alt="playjoa | YouTube" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
 ### Some of my work out there
 
-[<img align="left" alt="playjoa | Google Play" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleplay.svg" />][playstore]
-[<img align="left" alt="playjoa | AppStore" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/appstore.svg" />][appstore]
-[<img align="left" alt="playjoa | Unity Asset Store" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" />][assetstore]
+[<img align="left" target="_blank" alt="playjoa | Google Play" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleplay.svg" />][playstore]
+[<img align="left" target="_blank" alt="playjoa | AppStore" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/appstore.svg" />][appstore]
+[<img align="left" target="_blank" alt="playjoa | Unity Asset Store" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" />][assetstore]
 
 <br />
 
@@ -31,7 +31,7 @@
 <img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>
 <br>
 <br>
-<strong> <a href='https://playjoa.github.io/'> - Portfolio</a> </strong> 
+<strong> <a href='https://playjoa.github.io/' target="_blank"> - Portfolio</a> </strong> 
 <br>
 
 [linkedin]: https://www.linkedin.com/in/joao-milone/
