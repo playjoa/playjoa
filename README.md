@@ -1,30 +1,38 @@
-- 👋 GameDev Here!
+## Indie Game Dev Here! 👋 
 
-Trying to make my way in this game development world!
+- 🔭 Trying to make my way in this game development world!
+- 🌱 Things that I develop and find it useful I'll be posting here!
+- ⚡ Got a couple of games made already for mobile!
 
-Things that I develop and find it useful I'll be posting here!
+### You can find me here
 
-Got a couple of games made already for mobile!
+[<img align="left" alt="playjoa | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="playjoa | YouTube" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-I would say these are my top 3 favorite games I made!
+<br />
 
-<strong> Virus - The Game </strong>
-<br>
-<strong> <a href='https://play.google.com/store/apps/details?id=com.CrossBlack.Virus'> - Android Link!</a> </strong> <br>
-<strong> <a href='https://apps.apple.com/br/app/virus-the-game/id1452749256'> - iOS Link!</a> </strong> <br>
-<img src="https://play-lh.googleusercontent.com/J8fWy0ue1IXpr4I3psraPMrc9UhS6eom63o3d29k_6xEV1tsRCiIArE-8gZqXuTaBg=w2560-h1297-rw" width="640" height="360">
-<br>
+### Some of my work out there
 
-<strong> Motor Mayhem - Vehicle Warfare </strong>
-<br>
-<strong> <a href='https://play.google.com/store/apps/details?id=com.CrossBlack.MotorMayhem'> - Android Link!</a> </strong> <br>
-<strong> <a href='https://apps.apple.com/br/app/motor-mayhem-vehicle-warfare/id1538345518'> - iOS Link!</a> </strong> <br>
-<img src="https://play-lh.googleusercontent.com/v-z3pyS-eaaZgNtSdZlri0iIosQoJ1N_u2V69lRJFvGH8XKubE3yUsyag4SzYs4YJxI=w2560-h1297-rw" width="640" height="360">
-<br>
+[<img align="left" alt="playjoa | Google Play" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleplay.svg" />][playstore]
+[<img align="left" alt="playjoa | AppStore" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/appstore.svg" />][appstore]
+[<img align="left" alt="playjoa | Unity Asset Store" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" />][assetstore]
 
-<strong> Tornado.io 2! </strong>
-<br>
-<strong> <a href='https://play.google.com/store/apps/details?id=com.CrossBlack.Tornadoio2'> - Android Link!</a> </strong> <br>
-<strong> <a href='https://apps.apple.com/br/app/tornado-io-2-the-game-3d/id1497471104'> - iOS Link!</a> </strong> <br>
-<img src="https://play-lh.googleusercontent.com/jhfRhK_JL_ogaEgPBAJ3NZlJxpbcPcOAXhUYE7hiiF9541cFFSSIilDXVukuucLs1T0=w2560-h1297-rw" width="360" height="640">
-<br>
+<br />
+
+### Tools that I use
+
+<img align="left" alt="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg"/>
+<img align="left" alt="Unity" width="30px" src="http://deeziner.co.uk/blog/wp-content/uploads/2015/12/unity3d-atc.png"/>
+<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"/>
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"/>
+<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg"/>
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"/>
+<img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>
+
+
+
+[linkedin]: https://www.linkedin.com/in/joao-milone/
+[assetstore]: https://assetstore.unity.com/publishers/52979
+[appstore]: https://apps.apple.com/br/developer/joao-milone/id1452749255
+[playstore]: https://play.google.com/store/apps/dev?id=6319868086173201401
+[youtube]: https://www.youtube.com/channel/UCxahzg19R-D_AxWe62NgIbQ
