@@ -26,9 +26,9 @@
 <img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"/>
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"/>
 <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg"/>
+<img align="left" alt="AdMob" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleadsense.svg"/>
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"/>
 <img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>
-
 
 
 [linkedin]: https://www.linkedin.com/in/joao-milone/
