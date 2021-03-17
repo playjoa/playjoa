@@ -9,7 +9,8 @@
 [<img align="left" alt="playjoa | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="playjoa | YouTube" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-<br />
+<br>
+<br>
 
 ### Some of my work out there
 
@@ -17,7 +18,8 @@
 [<img align="left" alt="playjoa | AppStore" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/appstore.svg" />][appstore]
 [<img align="left" alt="playjoa | Unity Asset Store" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" />][assetstore]
 
-<br />
+<br>
+<br>
 
 ### Tools that I use
 
@@ -29,6 +31,7 @@
 <img align="left" alt="AdMob" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleadsense.svg"/>
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"/>
 <img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>
+<br>
 <br>
 <br>
 <strong> <a href='https://playjoa.github.io/'> - Portfolio</a> </strong> 
