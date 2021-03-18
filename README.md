@@ -24,8 +24,8 @@
 ### Tools that I use
 
 <img align="left" alt="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg"/>
-<img align="left" alt="Unity" width="30px" src="http://deeziner.co.uk/blog/wp-content/uploads/2015/12/unity3d-atc.png"/>
-<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"/>
+<img align="left" alt="Unity" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"/>
+<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"/>
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"/>
 <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg"/>
 <img align="left" alt="AdMob" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleadsense.svg"/>
