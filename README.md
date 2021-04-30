@@ -16,6 +16,7 @@
 
 [<img align="left" alt="playjoa | Google Play" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleplay.svg" />][playstore]
 [<img align="left" alt="playjoa | AppStore" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/appstore.svg" />][appstore]
+[<img align="left" alt="playjoa | Itch.io" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg" />][itchio]
 [<img align="left" alt="playjoa | Unity Asset Store" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" />][assetstore]
 
 <br>
@@ -37,6 +38,7 @@
 <strong> <a href='https://playjoa.github.io/'> - Portfolio</a> </strong> 
 <br>
 
+[itchio]: https://playjoa.itch.io/
 [linkedin]: https://www.linkedin.com/in/joao-milone/
 [assetstore]: https://assetstore.unity.com/publishers/52979
 [appstore]: https://apps.apple.com/br/developer/joao-milone/id1452749255
