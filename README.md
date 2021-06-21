@@ -1,7 +1,8 @@
 ## Unity Game Dev Here! 👋 
 
+- ❤️ Love to play video games!
 - 🔭 Trying to make my way in this game development world!
-- 🌱 Things that I develop and find it useful I'll be posting here!
+- 🦾 Things that I develop and find it useful I'll be posting here!
 - ⚡ Got a couple of games made already for mobile!
 
 ### You can find me here
