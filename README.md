@@ -1,4 +1,4 @@
-## Unity Game Dev Here! 👋 
+## Game Engineer & Unity Game Developer Here! 👋 
 
 - ❤️ Love to play video games!
 - 🔭 Trying to make my way in this game development world!
