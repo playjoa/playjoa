@@ -1,9 +1,7 @@
-## Game Engineer & Unity Game Developer Here! 👋 
+## Senior Game Engineer👋 
 
 - ❤️ Love to play video games!
-- 🔭 Trying to make my way in this game development world!
 - 🦾 Things that I develop and find it useful I'll be posting here!
-- ⚡ Got a couple of games made already for mobile!
 
 ### You can find me here
 
@@ -27,6 +25,7 @@
 
 <img align="left" alt="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg"/>
 <img align="left" alt="Unity" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg"/>
+<img align="left" alt="Unreal" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unrealengine.svg"/>
 <img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"/>
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"/>
 <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg"/>
