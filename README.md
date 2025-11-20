@@ -43,4 +43,6 @@
 [assetstore]: https://assetstore.unity.com/publishers/52979
 [appstore]: https://apps.apple.com/br/developer/joao-milone/id1452749255
 [playstore]: https://play.google.com/store/apps/dev?id=6319868086173201401
-[youtube]: https://www.youtube.com/channel/UCxahzg19R-D_AxWe62NgIbQ
+[youtube]: https://www.youtube.com/@JCMStudiosOfficial
+
+
